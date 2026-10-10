@@ -1,0 +1,10 @@
+{
+  "name": "hello-server",
+  "version": "1.0.0",
+  "description": "My first nodejs hello world web site for vercel",
+  "main": "api/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "sjr",
+  "license": "MIT"
+}
